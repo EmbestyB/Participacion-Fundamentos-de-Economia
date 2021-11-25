@@ -1,1 +1,39 @@
-adios
+---
+title: "Participación Reflexiva"
+author: "Nicolas Bennett"
+date: "11/21: `r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Semana 4
+
+1)Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+
+-En esta semana vimos "Produccion, costos y Oferta", esta clase se relaciona con los objetivos de aprendizaje RA3 en cual consiste en describir y simular modelos económicos para establecer la dinámica de relaciones entre 
+variables, ya que en esta semana se enseño respecto a los diferentes costos de produccion de objetos y como este afecta el precio al consumidor de este producto, tambien se relaciono con precios de productos suplementarios y complementarios.
+
+2)Describa conocimientos previos en realación al tema
+
+-Yo conocia respecto a los efectos directos que tenia el costo de produccion al costo del consumidor.
+
+3)¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+
+-En esta clase aprendi que la competitividad de los productos afecta mucho en su precio y en su consumo, y de ahi puedo sacar mejores concluciones respecto a precios futuros de algunos productos y por ende me ayuda a saber como cuando y donde ahorrar para compras mayores.
+
+4)¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+
+-Me permite conocer mejor el funcionamiento de produccion y relacion de costos a cosas externas que puedan afectar los costos, lo que como ingeniero me permite hacer mejores proyecciones a diferentes tipos de proyectos en relacion tanto a su costo como a su venta.
+
+5)Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+
+-El trabajo grupal fue un analisis de inflacion respecto a un producto, este fue un analisis a la variacion de precios de un producto lo que nos permitio analisar la informaicon aprendida en clases en un caso real, lo que me permitio entender e integrar la materia aprendida en clases. 
+
+6)¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+
+-Para poder demostrar que domino los conceptos debo ser capaz de calcular la maximisacion de beneficio del productor y entender como manejar la relacion costo precio de un producto.
+
+
